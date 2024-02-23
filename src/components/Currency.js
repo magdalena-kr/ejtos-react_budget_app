@@ -49,8 +49,6 @@ const Currency = () => {
             </option>
         </select>
 
-        <p>Selected Currency: {selectedCurrency}</p>
-        <p>Symbol: {getCurrencySymbol()}</p>
     </div>
 
 
